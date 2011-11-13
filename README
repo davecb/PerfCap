@@ -1,0 +1,8 @@
+Collected tools for performance and capacity planning.
+
+The "Estimating Performance Bounds" spreadsheet draws simplified
+response time and throughput curves from an observed service time
+and user think time, for a range of loads. It uses the operational
+laws, so it doesn't require statistical assumptions, but it draws
+them with sharp corners, while a benchmark or statistical model
+would draw pretty curved corners.
